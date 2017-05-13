@@ -1,0 +1,23 @@
+{
+  "name": "tello",
+  "version": "1.0.0",
+  "description": "Simple server",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3nd0y/Tello.git"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "tello"
+  ],
+  "author": "Fadli Mukhtarif",
+  "license": "ISC"
+}
