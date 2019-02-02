@@ -1,23 +1,23 @@
 {
-  "name": "tello",
+  "name": "timeseriesdb",
   "version": "1.0.0",
-  "description": "Simple server",
-  "main": "server.js",
-  "dependencies": {
-    "express": "^4.14.1"
-  },
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/3nd0y/Tello.git"
-  },
+  "description": "\"# ThingsX\"",
+  "main": "index.js",
   "scripts": {
-    "test": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "author": "fadli m",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"url\": \"https://github.com/3nd0y/Tello.git\""
+  },
   "keywords": [
-    "tello"
-  ],
-  "author": "Fadli Mukhtarif",
-  "license": "ISC"
+    "timeseries",
+    "mongodb"
+  ]
 }
